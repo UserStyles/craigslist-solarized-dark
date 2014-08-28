@@ -7,7 +7,7 @@
 		background-color: #002b36 !important;
 	}
 
-	a, h1,h2,h3,h4,h5 {
+	a, a span, h1, h2, h3, h4, h5 {
 		color: #2aa198 !important;
 	}
 
@@ -20,7 +20,7 @@
 		background-color: #073642 !important;
 	}
 
-	a:visited {
+	a:visited, a:visited span {
 		color: #b58900 !important;
 	}
 
